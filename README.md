@@ -1,7 +1,6 @@
-## Hi there 👋
+Sou o Pedro! Estudante de programação mais focado em back-end e MYSQL
 
-<!--
-**pedroMesquita12/pedromesquita12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromesquita12)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
