@@ -4,7 +4,7 @@ Sou o Pedro Mesquita, tenho 18 anos! Estudante de ADS pela Fatec, mais focado em
 
 <h2>Ferramentas:</h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" />
+  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
