@@ -1,4 +1,4 @@
-Sou o Pedro Mesquita, tenho 18 anos! Estudante de ADS pela Fatec, mais focado em back-end e MYSQL.
+Sou o Pedro Mesquita, tenho 18 anos! Estudante de ADS pela Fatec, mais focado em back-end, MySQL e Cybersecurity.
 
 
 
