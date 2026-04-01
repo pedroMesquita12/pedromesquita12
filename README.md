@@ -16,7 +16,12 @@ Sou o Pedro Mesquita, tenho 18 anos! Estudante de ADS pela Fatec, mais focado em
 </div>
 
  ##
+## Estatísticas
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroMesquita12&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroMesquita12&layout=compact&theme=tokyonight"/>
+</p>
  
  <h2>Contate-me:</h2>
 <div> 
@@ -26,9 +31,8 @@ Sou o Pedro Mesquita, tenho 18 anos! Estudante de ADS pela Fatec, mais focado em
   
 </div>
 
-## Estatísticas
+## Atividade
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroMesquita12&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroMesquita12&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroMesquita12&theme=tokyo-night"/>
 </p>
