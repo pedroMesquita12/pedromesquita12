@@ -4,10 +4,18 @@ Sou o Pedro Mesquita, tenho 18 anos! Estudante de ADS pela Fatec, mais focado em
 
 <h2>Linguagens:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,vite,c,php,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,ts,nestjs,vite,c,php,mysql,postgres,linux" />
 </p>
 
  ##
+
+ <h2>Ferramentas:</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,mint,ubunto,npm,clion" />
+</p>
+
+ ##
+ 
 ## Estatísticas
 
 <p align="center">
